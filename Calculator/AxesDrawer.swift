@@ -2,8 +2,6 @@
 //  AxesDrawer.swift
 //  Calculator
 //
-//  Created by CS193p Instructor.
-//  Copyright (c) 2015 Stanford University. All rights reserved.
 //
 
 import UIKit
